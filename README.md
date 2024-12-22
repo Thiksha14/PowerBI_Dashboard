@@ -13,3 +13,9 @@ Performance Analysis: Identify top-performing products and regions.
 Trends and Insights: Discover sales trends over time for better forecasting.
 
 Interactive Visuals: User-friendly, dynamic visuals for an intuitive experience.
+
+
+## Dashboard: 
+
+![image](https://github.com/user-attachments/assets/4b25cac7-deb1-4da6-9acb-2ddd1d040414)
+
